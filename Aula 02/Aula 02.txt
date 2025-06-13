@@ -1,0 +1,11 @@
+Comandos
+INPUT = Momentos de interação de usuários
+PROCESS = Momentos de processamento, realizar o pedido do usuário
+OUTPUT = Comandos de saída, dar posicionamento sobre o processo
+
+Features
+Funcionalidades em algo
+
+IDE
+Lugar onde você escreve seus algoritmos
+playcode.io = ide online

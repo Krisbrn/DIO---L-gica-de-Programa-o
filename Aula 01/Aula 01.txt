@@ -1,0 +1,12 @@
+Algoritmo = basicamente são comandos ou seja instruções. Sequência de ações
+Ordens lógicas ou seja uma sequência lógica
+
+Lembre-se: Qual seu objetivo?
+
+Fluxogramas = maneira visual de mostrar o passo a passo, a lógica
+
+início e fim = elipse tipo um circulo
+entradas de dados = perguntas, um losango
+decisão de ação = decisões, perguntas para o usuário (SIM/NÃO)
+estrutura de looping = perguntas para saber se precisa voltar para a decisão de ação
+estrutura de saída = mensagem para o final do fluxograma

@@ -1,0 +1,8 @@
+VARIÁVEIS
+Caixas
+
+VETORES
+São armários
+
+Matrizes (colunas e linhas)
+São armários bidimensionais
