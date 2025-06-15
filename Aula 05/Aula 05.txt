@@ -1,0 +1,33 @@
+OPERADORES
+
+ARITMÉTICOS
+Adição = +
+Subtração = -
+Multiplicação = *
+Divisão = /
+
+RELACIONAIS
+igual a (==)
+diferente de (!=)
+maior que (>)
+menor que (<)
+maior igual (>=)
+menor igual (<=)
+
+LÓGICOS
+and (&&)
+or (||)
+not (!)
+
+ATRIBUIÇÃO Exemplo: a+=b, a = a + b
+igualdade (=) 
+adição e atribuição (+=)
+subtração e atribuição (-=)
+multiplicação e atribuição (*=)
+divisão e atribuição (/=)
+módulo e atribuição (%=) , resto da divisão
+
+Incremento
+-- tira incremento
+++ incremento
+
