@@ -1,0 +1,6 @@
+FUNÇÕES
+entrada: pão
+agente: torrar
+saída = torrrada feita
+
+function torrar()
